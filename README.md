@@ -1,2 +1,2 @@
 # AskAnything
-My MCA Mini PROJECT
+MCA Mini PROJECT
